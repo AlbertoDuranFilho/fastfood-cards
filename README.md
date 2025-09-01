@@ -29,9 +29,9 @@ Criar um componente utilizando React Native. O componente deve receber os dados 
 
 ## 💻 Demonstação da Atividade
 
- <img src="/assets/home.jpg"  alt=""/>
+ <img src="/assets/home.jpg" height="500px" alt=""/>
 
- <img src="/assets/detailsProduct.jpg" alt=""/>
+ <img src="/assets/detailsProduct.jpg" height="500px" alt=""/>
 
 
 ***
